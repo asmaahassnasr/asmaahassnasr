@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Asmaa
-# 💫 About Me:
-Front-End Developer with 2 years of experience building responsive, accessible, and user-friendly web interfaces. I started with vanilla JavaScript and now specialize in React.js, focusing on clean, scalable, and reusable code.<br><br>I’m passionate about creating seamless digital experiences and always improving my skills. Currently open to Front-End opportunities.
+# 💫 I'm a Front-End Developer with 2 years of experience building responsive, accessible, and user-friendly web interfaces. I started with vanilla JavaScript and now specialize in React.js, focusing on clean, scalable, and reusable code.<br><br>I’m passionate about creating seamless digital experiences and always improving my skills. Currently open to Front-End opportunities.
 
 
 ## 🌐 Socials:
